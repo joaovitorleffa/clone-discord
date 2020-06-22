@@ -33,4 +33,5 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-
+## References 
+[Recriando a Interface do Discord com ReactJS | UI Clone](https://www.youtube.com/watch?v=x4FdZd2-_uU)
